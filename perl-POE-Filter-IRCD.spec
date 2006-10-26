@@ -9,12 +9,12 @@
 Summary:	POE::Filter::IRCD - a POE-based parser for the IRC protocol
 Summary(pl):	POE::Filter::IRCD - oparty na POE analizator protoko³u IRC
 Name:		perl-POE-Filter-IRCD
-Version:	1.8
-Release:	0.1
+Version:	2.1
+Release:	1
 License:	unknown
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	b6343b3d9e0e917550a57035d1474f92
+# Source0-md5:	c14c685dc83a14c21666489df9be298d
 URL:		http://search.cpan.org/dist/POE-Filter-IRCD/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
