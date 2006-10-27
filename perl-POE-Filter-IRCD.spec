@@ -19,7 +19,7 @@ URL:		http://search.cpan.org/dist/POE-Filter-IRCD/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 %if %{with autodeps} || %{with tests}
-BuildRequires:	perl-POE >= 0.3202
+BuildRequires:	perl-POE >= 1:0.3202
 %endif
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
