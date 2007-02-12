@@ -7,7 +7,7 @@
 %define		pdir	POE
 %define		pnam	Filter-IRCD
 Summary:	POE::Filter::IRCD - a POE-based parser for the IRC protocol
-Summary(pl.UTF-8):   POE::Filter::IRCD - oparty na POE analizator protokołu IRC
+Summary(pl.UTF-8):	POE::Filter::IRCD - oparty na POE analizator protokołu IRC
 Name:		perl-POE-Filter-IRCD
 Version:	2.1
 Release:	1
